@@ -1,0 +1,14 @@
+body{
+   background: linear-gradient(#2dfd72 0%, #2dc0fd 100%);
+    background-repeat: no-repeat;
+       text-align: center;
+}
+h1{
+    text-shadow:2px 2px #F8BBDO;
+        font-size: 20px;
+}
+#bio{
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
